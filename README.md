@@ -17,4 +17,8 @@ this is my most recent project as of 23/03/2026, i came back to this to remake i
 THE CODE:
 the code is a jungle of def blocks because im tryna practise how to make my stuff easier to update and definately not becuase i heard from gemini ai that it looks better on my portfolio. it uses a dictionary to not only list the squares but also its state, which i realised i can just skip turning the x or o or, in this case, space instead of a ? into 0, 1 or 2 cuz yea, and then i also realised that of i made a list of winning pos that has lists of winning pos and just do if all the spaces in the list thats in the list of winning pos is equal to each other thats a win so ye much shorter code, and DEFINATELY NOT BY ACCIDNET, YES DEFINATELYYYY, i 'made' it so that the loser always goes first next round, definately all on purpose.
 
+"to fix a bug, lable it a feature"
+                        -probably mojang or smonething
+UNRELATED TO MY CODE TRUST ME CHAT
+
 -23/03/2026
